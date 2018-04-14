@@ -1,0 +1,35 @@
+{
+  "name": "yumeko",
+  "version": "0.1.0",
+  "description": "A simple discord bot",
+  "main": "MusicBot.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordbot"
+  ],
+  "author": "iCrawl",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "node-gyp": "^3.6.2",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.3",
+    "rebuild": "^0.1.2",
+    "simple-youtube-api": "^3.0.1",
+    "ytdl-core": "^0.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-aqua": "^1.0.0"
+  },
+  "eslintConfig": {
+    "extends": "aqua",
+    "rules": {
+      "no-console": 0
+    }
+  }
+}
