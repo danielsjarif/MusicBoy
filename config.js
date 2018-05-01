@@ -2,4 +2,4 @@ exports.TOKEN = 'YOUR_TOKEN';
 
 exports.PREFIX = '.bb';
 
-exports.GOOGLE_API_KEY = 'AIzaSyBcpCqIcIH0eRv5NzKuJHTqvccNMxAJBPg';
+exports.GOOGLE_API_KEY = 'google_api_key_haha';
